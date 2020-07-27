@@ -1,7 +1,7 @@
 ## Hi there! 👋
 I'm a polyglot and former linguist for the USG trying to make my way in tech!
 
-### Quick reference on projects 👇
+### Quick reference to projects 👇
 #### 🚀  [ Starships-py ](https://github.com/jasper-zanjani/starships-py)
 Toy project I developed while learning object-oriented techniques in Python that uses `Starship` and `Fleet` classes to represent.. well, fleets of starships. 
 This type of project proved much more interesting than the typical pedantic scenarios that focus on cars, pizza, or the like.
@@ -28,5 +28,8 @@ Containing various dotfiles:
 
 #### 📝 [ Notes ](https://github.com/jasper-zanjani/notes)
 Copious notes on various technical topics, covering the gamut from [Linux](https://github.com/jasper-zanjani/notes/blob/master/lx/README.md) and [Windows Server](https://github.com/jasper-zanjani/notes/blob/master/win/70-740.md) certifications to programming languages like [Python](https://github.com/jasper-zanjani/blob/maser/py/README.md) and [C#](https://github.com/jasper-zanjani/notes/blob/master/win/cs.md).
-I always try to make an "artifact" of my learning in the form of a practical project, but if I am unable to at least I've probably written some sort of notes down about it in this repo!
+I always try to make an "artifact" of my learning in the form of a practical project, but if I am unable to then I've probably written some sort of note about it in this repo!
 
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| ![](https://github.com/jasper-zanjani/jasper-zanjani/blob/master/img/sec.png) | ![](https://github.com/jasper-zanjani/jasper-zanjani/blob/master/img/net.png) | ![](https://github.com/jasper-zanjani/jasper-zanjani/blob/master/img/lx.png) | ![](https://github.com/jasper-zanjani/jasper-zanjani/blob/master/img/aws.png) | ![](https://github.com/jasper-zanjani/jasper-zanjani/blob/master/img/mta.png) | ![](https://github.com/jasper-zanjani/jasper-zanjani/blob/master/img/py.png) |

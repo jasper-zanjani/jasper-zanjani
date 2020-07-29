@@ -4,7 +4,7 @@ I'm a polyglot and former linguist for the USG trying to make my way in tech!
 ### Quick reference to projects 👇
 #### 🚀  [ Starships-py ](https://github.com/jasper-zanjani/starships-py)
 Toy project I developed while learning object-oriented techniques in Python that uses `Starship` and `Fleet` classes to represent.. well, fleets of starships. 
-This type of project proved much more interesting than the typical pedantic scenarios that focus on cars, pizza, or the like.
+This type of project proved much more interesting than the typical pedantic scenarios that focus on [cars](https://channel9.msdn.com/Series/CSharp-Fundamentals-for-Absolute-Beginners/Understanding-Classes), pizza, or the like.
 
 A [ Powershell ](https://github.com/jasper-zanjani/starships-pwsh) port is also available.
 

@@ -1,6 +1,6 @@
 ## Hi there! 👋
 I'm a polyglot and former linguist for the USG trying to make my way in tech!
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jasper-zanjani)](https://github.com/anuraghazra/github-readme-stats)
 ### Quick reference to projects 👇
 #### 🚀  [ Starships-py ](https://github.com/jasper-zanjani/starships-py)
 Toy project I developed while learning object-oriented techniques in Python that uses `Starship` and `Fleet` classes to represent.. well, fleets of starships. 

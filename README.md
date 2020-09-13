@@ -1,4 +1,5 @@
 ## :movie_camera: Tutorials
+[ ![](img/discord.py.png) ](https://youtu.be/iGH4GM_gDfo)
 - [Python Click Master Class](https://youtu.be/DO-QWK-o0jU)
 - [Introduction to WinGet and Chocolatey](https://www.youtube.com/watch?v=W1ZKCKKpT4Y)
 
